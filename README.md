@@ -37,3 +37,9 @@ flex-grow(Ukratko: Ako imamo 3 elementa u nizu i prva dva stavimo da su flex-gro
 
 FLEX: neka ova 3 diva imaju fleksibilne dimenzije na osnovu holdera u kojem se nalaze tj diva sa klasom holder <br>
 Ako imamo flex dimenzije, to znaci da nam width i height nisu potrebni. Mozemo da ih obrisemo. Rezultat ce biti isti. <br>
+
+![2](https://user-images.githubusercontent.com/56784702/217853428-2b949d63-a1b9-4999-b980-76ca28a9b4fa.png)
+![3](https://user-images.githubusercontent.com/56784702/217853446-17ec802b-33df-4c6e-9136-273660e481b9.png)
+![4](https://user-images.githubusercontent.com/56784702/217853461-650e7212-4018-4445-b062-c0b6b8b30deb.png)
+![5](https://user-images.githubusercontent.com/56784702/217853465-a16ca85b-20d8-476a-abe0-11a4f96034e1.png)
+
